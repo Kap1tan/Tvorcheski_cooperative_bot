@@ -1,3 +1,4 @@
+
 import asyncio
 import logging
 from datetime import datetime, timedelta
@@ -20,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Токен бота (получить у @BotFather)
-BOT_TOKEN = """
+BOT_TOKEN = "8045172167:AAFA0AbuS4HbU-KoRoCGtCkDjnb-OGZseIA"
 
 
 # Состояния пользователя
